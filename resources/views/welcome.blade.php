@@ -79,11 +79,10 @@
 
             <div class="content">
                 <div class="title m-b-md">
-<<<<<<< HEAD
-                    Laravel Test for Xi Results ...
-=======
-                    Laravel Test Successful
->>>>>>> fec8264af665440f867601519fc16b0bd1a4c51c
+
+                    Laravel Test Successfully ....
+                    <br>waiting for Database test!!
+
                 </div>
 
                 <div class="links">
